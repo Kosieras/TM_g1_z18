@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- License: PD. Made by pixeden.com: https://pixeden.com -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="-2 0 32 32"
+   version="1.1"
+   id="svg282"
+   sodipodi:docname="v2.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs286" />
+  <sodipodi:namedview
+     id="namedview284"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.28375"
+     inkscape:cx="399.61052"
+     inkscape:cy="400"
+     inkscape:window-width="1424"
+     inkscape:window-height="1027"
+     inkscape:window-x="2470"
+     inkscape:window-y="186"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg282" />
+  <g
+     id="icomoon-ignore" />
+  <path
+     d="M13.635 5.274l-7.686 6.127h-5.949v4.742l-0.004 0.003 0.004 0.003v4.693h5.98l7.656 6.008v-6.008h0.002v-9.441h-0.002v-6.127h0zM12.588 19.794h-0.002v4.9l-6.244-4.9h-5.293v-7.343h5.267l6.271-4.999v3.95l0.002 1.049v7.343h0z"
+     fill="#000000"
+     id="path274" />
+  <path
+     d="M16.087 10.729c1.141 1.521 1.745 3.333 1.745 5.241 0 1.948-0.627 3.791-1.812 5.33l0.832 0.64c1.328-1.724 2.029-3.788 2.029-5.97 0-2.137-0.676-4.167-1.955-5.87l-0.839 0.63z"
+     fill="#000000"
+     id="path276" />
+  <path
+     d="M20.313 6.927l-0.809 0.668c1.971 2.387 3.057 5.41 3.057 8.512 0 3.066-1.009 5.949-2.917 8.339l0.821 0.655c2.057-2.578 3.145-5.687 3.145-8.994 0-3.346-1.171-6.606-3.297-9.18z"
+     fill="#000000"
+     id="path278" />
+</svg>

@@ -1,0 +1,1 @@
+<?php echo "<h3>Jestem tylko początkującym botem i nie znam odpowiedzi na to pytanie, lecz w ramach rekomensaty proszę przeczytać te sfromułowanie: <br><a style='color:red'>"; ?>
